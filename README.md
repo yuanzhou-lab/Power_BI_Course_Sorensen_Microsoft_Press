@@ -11,7 +11,7 @@ This course was completed during my personal leisure time outside of work, demon
 
 ## 📜 Certificate of Completion
 
-![Power BI Certificate](downloads/certificate_of_completion)
+![Power BI Certificate](docs/Certificate_of_Completion.png)
 
 ---
 
