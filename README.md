@@ -11,7 +11,7 @@ This course was completed during my personal leisure time outside of work, demon
 
 ## 📜 Certificate of Completion
 
-![Power BI Certificate](docs/Certificate_of_Completion.png)
+![Power BI Certificate](docs/Complete Guide to Power BI for Data Analysts.pdf)
 
 ---
 
@@ -22,6 +22,9 @@ These notes were exported into a consolidated PDF.
 
 📄 [View My Power BI Course Notes (PDF)](docs/PowerBI_Notes.pdf)
 
+I have also uploaded the .pbix file I have been building up through out the course, according to the lecturer's instruction.
+[View My Power BI working file (.pbix)](docs/Sales.pbix)
+
 ---
 
 ## 🚀 Skills Gained
@@ -31,4 +34,4 @@ These notes were exported into a consolidated PDF.
 - DAX (Calculated Columns & Measures)
 - Data Visualization Best Practices
 - Dashboard Development
-- Business Intelligence Reporting
+- Power BI Service and Security Roles
