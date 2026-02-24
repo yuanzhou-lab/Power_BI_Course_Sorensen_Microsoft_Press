@@ -11,7 +11,7 @@ This course was completed during my personal leisure time outside of work, demon
 
 ## 📜 Certificate of Completion
 
-![Power BI Certificate](docs/Complete Guide to Power BI for Data Analysts.pdf)
+![Power BI Certificate](docs/Certificate_of_Completion.png)
 
 ---
 
@@ -20,9 +20,10 @@ This course was completed during my personal leisure time outside of work, demon
 Throughout the course, I created detailed structured notes for each sub-lesson using Microsoft OneNote.  
 These notes were exported into a consolidated PDF.
 
-📄 [View My Power BI Course Notes (PDF)](docs/PowerBI_Notes.pdf)
+📄 [View My Power BI Course Notes (PDF)](docs/Complete Guide to Power BI for Data Analysts.pdf)
 
 I have also uploaded the .pbix file I have been building up through out the course, according to the lecturer's instruction.
+
 [View My Power BI working file (.pbix)](docs/Sales.pbix)
 
 ---
